@@ -5,3 +5,7 @@
 ```pgcli --help```
 
 ```pgcli -h <particular host> -p <particular port> -u <particular user> -d <database name>```
+
+```https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2021-01.parquet```
+
+minute 11:45
